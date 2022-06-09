@@ -14,9 +14,3 @@ Everything you need is provided. Simply download the ZIP file and run renpy with
 
 - [@QueenHusbando on Twitter](https://www.twitter.com/QueenHusbando)
 
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-
